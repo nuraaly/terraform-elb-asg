@@ -1,6 +1,6 @@
 # terraform WordPress and MariaDB module
 
-![image](https://github.com/nuraaly/terraform-elb-asg/issues/2#issue-751255304)
+![asg-elb](https://3xyh3sqxv063a8xzo5uk2zn1-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/1.jpeg)
 
 
 This module will create a WordPress Server ASG and MariaDB ASG on public subnet in  provided VPC
